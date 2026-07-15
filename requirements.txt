@@ -1,0 +1,4 @@
+cfonts
+instaloader
+requests
+rich
